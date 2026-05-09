@@ -1,2 +1,1 @@
-# STCA-LLM
-논문 리뷰
+# STCA-LLM Simulation
